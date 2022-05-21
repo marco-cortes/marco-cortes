@@ -5,6 +5,7 @@
 - 🤠 Tengo 21 años
 - 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
 - 👨‍💻 Mis otros proyectos se encuentran en: [https://marco-cortes.me](https://marco-cortes.me)
+- 👾 Participé en el hackaton de LaunchX llamado Hack the Ocean
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
