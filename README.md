@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marco-cortes&show_icons=true&theme=prussian)
 
 
-<!--<h1 align="center">Hi 👋, I'm Marco Antonio Cortes Nava</h1>
+<h1 align="center">Hi 👋, I'm Marco Antonio Cortes Nava</h1>
 <h3 align="center">A passionate fullstack developer from México</h3>
 
 - 🔭 I’m currently working on [Coursite](https://github.com/marco-cortes/coursite)
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-cortes&show_icons=true&locale=en&layout=compact" alt="marco-cortes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-cortes&show_icons=true&locale=en" alt="marco-cortes" /></p>
--->
