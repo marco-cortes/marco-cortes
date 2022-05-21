@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Marco Cortes</h1>
-<h3 align="center">I'm a Java & React developer</h3>
+<h1 align="center">Holaa 👋, me llamo Marco Antonio Cortes Nava</h1>
+<h3 align="center">Soy un programador web.</h3>
+- 👨‍🎓 Me encuentro estudiando Ing. en Computación en la Facultad de Estudios Superiores Aragón
+- 🤠 Tengo 21 años
+- 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
+- 👨‍💻 Mis otros proyectos se encuentran en: [https://marco-cortes.me](https://marco-cortes.me)
 
-- 🔭 I’m currently working on [Coursite](https://github.com/marco-cortes/coursite)
-- 👨‍💻 All of my projects are available at [https://marco-cortes.me](https://marco-cortes.me)
-- 📫 How to reach me **marcocortes84@aragon.unam.mx**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/marco-crts" target="blank">
   <img align="center"
@@ -13,9 +13,7 @@
        alt="marco-antonio-cortes-nava-crts" height="30" width="40" />
   </a>
 </p>
-<p>
-<p>
-<h3 align="left">My Languages:</h3>
+<h3 align="left">Lenguajes de programación:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -39,10 +37,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
-</p>
-<p>
-&nbsp;
-<h3 align="left">Frameworks & libraries</h3>
+
+<h3 align="left">Frameworks & bibliotecas</h3>
 <p align="left">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -67,9 +63,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
 </p>
-</p>
-</p>
-<h3 align="left">Databases</h3>
+
+
+<h3 align="left">Bases de datos</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -93,7 +89,7 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
 </p>
-<h3 align="left">Tools</h3>
+<h3 align="left">Herramientas y otros</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
