@@ -10,9 +10,10 @@
   <a href="https://linkedin.com/in/marco-crts" target="blank">
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="marco-antonio-cortes-nava-94a3a8215" height="30" width="40" />
+       alt="marco-antonio-cortes-nava-crts" height="30" width="40" />
   </a>
 </p>
+<p>
 <h3 align="left">My Languages:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -62,7 +63,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
 </p>
-
+</p>
 <h3 align="left">Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
