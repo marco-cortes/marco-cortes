@@ -14,6 +14,7 @@
   </a>
 </p>
 <p>
+<p>
 <h3 align="left">My Languages:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -38,6 +39,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
+</p>
+<p>
 <h3 align="left">Frameworks & libraries</h3>
 <p align="left">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -62,6 +65,7 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
+</p>
 </p>
 </p>
 <h3 align="left">Databases</h3>
