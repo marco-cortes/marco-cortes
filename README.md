@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, me llamo Marco Antonio Cortes Nava</h1>
 <h3 align="center">Soy un Programador Fullstack</h3>
 
-- 💻 Actualmente trabajo como programador en [Crowe México](https://www.crowe.com/mx)
 - 👨‍🎓 Soy egresado de Ing. en Computación en la Facultad de Estudios Superiores Aragón
 - 🤠 Tengo 22 años
+- 💻 Actualmente trabajo como programador en [Crowe México](https://www.crowe.com/mx)
+- 🧐 Me encanta aprender sobre tecnología y programación
 - 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
-- 👨‍💻 Mis otros proyectos se encuentran en: [https://marco-cortes.me](https://marco-cortes.me)
+- 👨‍💻 Mis otros proyectos se encuentran en: [marco-cortes.github.io](https://marco-cortes.github.io/)
 - 👾 Me gustan los videojuegos
 - 🎸 Me gusta la música y tocar la guitarra
-- 🧐 Me encanta aprender sobre tecnología y programación
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-cortes&label=Profile%20views&color=0e75b6&style=flat" alt="marco-cortes" /> </p>
 
