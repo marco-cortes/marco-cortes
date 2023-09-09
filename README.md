@@ -6,7 +6,7 @@
 - 💻 Actualmente trabajo como programador en [Concepto Móvil](https://www.conceptomovil.com/)
 - 🧐 Me encanta aprender sobre tecnología y programación
 - 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
-- 👨‍💻 Mis otros proyectos se encuentran en: [marco-cortes.github.io](https://marco-cortes.github.io/)
+- 👨‍💻 Enlace a mi portafolio: [marco-cortes.github.io](https://marco-cortes.github.io/)
 - 👾 Me gustan los videojuegos
 - 🎸 Me gusta la música y tocar la guitarra
 
