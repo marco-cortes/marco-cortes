@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Marco Antonio Cortes Nava</h1>
-<h3 align="center">Soy un Programador Fullstack</h3>
+<h3 align="center">Desarrollador</h3>
 
 - 👨‍🎓 Soy egresado de Ing. en Computación en la Facultad de Estudios Superiores Aragón
 - 🤠 Tengo 22 años
