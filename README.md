@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Marco Antonio Cortes Nava</h1>
+<h1 align="center">Hola 👋, soy Marco Antonio Cortes Nava</h1>
 <h3 align="center">Soy un Programador Fullstack</h3>
 
 - 👨‍🎓 Soy egresado de Ing. en Computación en la Facultad de Estudios Superiores Aragón
