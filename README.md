@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador</h3>
 
 - 👨‍🎓 Soy egresado de Ing. en Computación en la Facultad de Estudios Superiores Aragón
-- 🤠 Tengo 22 años
+- 🤠 Tengo 23 años
 - 💻 Actualmente trabajo como programador en [Crowe México](https://www.crowe.com/mx)
 - 🧐 Me encanta aprender sobre tecnología y programación
 - 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
