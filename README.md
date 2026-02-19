@@ -5,7 +5,7 @@
 - 🤠 Tengo 25 años
 - 💻 Actualmente trabajo como programador en [Grupo Salinas](https://www.gruposalinas.com/)
 - 🧐 Me encanta aprender sobre tecnología y programación
-- 🔭 Mi último trabajo ha sido [Eduplatforme](https://eduplatform.dev-marco.com/)
+- 🔭 Mi último trabajo ha sido [Eduplatform](https://eduplatform.dev-marco.com/)
 - 👨‍💻 Enlace a mi portafolio: [marco-cortes.github.io](https://marco-cortes.github.io/)
 - 👾 Me gustan los videojuegos
 - 🎸 Me gusta la música y tocar la guitarra
