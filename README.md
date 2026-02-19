@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Marco Antonio Cortes Nava</h1>
-<h3 align="center">Desarrollador</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 - 👨‍🎓 Soy egresado de Ing. en Computación en la Facultad de Estudios Superiores Aragón
-- 🤠 Tengo 23 años
-- 💻 Actualmente trabajo como programador en [Crowe México](https://www.crowe.com/mx)
+- 🤠 Tengo 25 años
+- 💻 Actualmente trabajo como programador en [Grupo Salinas](https://www.gruposalinas.com/)
 - 🧐 Me encanta aprender sobre tecnología y programación
-- 🔭 Mi último trabajo ha sido [Coursite](https://github.com/marco-cortes/coursite)
+- 🔭 Mi último trabajo ha sido [Eduplatforme](https://eduplatform.dev-marco.com/)
 - 👨‍💻 Enlace a mi portafolio: [marco-cortes.github.io](https://marco-cortes.github.io/)
 - 👾 Me gustan los videojuegos
 - 🎸 Me gusta la música y tocar la guitarra
