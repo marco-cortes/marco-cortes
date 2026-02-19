@@ -1,7 +1,7 @@
-# Marco Cortés
+# Marco Cortes
 
 💻 Fullstack Developer  
-🏦 Software Engineer @ Banco Azteca  
+🏦 Software Engineer @Grupo Salinas
 📍 México  
 🎂 25 años  
 
